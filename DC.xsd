@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
-<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://lenel.com/DataConduITQueueSchema.xsd">
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="https://raw.githubusercontent.com/pcr6955/TEST/main/DC.xsd">
 	<xs:simpleType name="Operations">
 		<xs:restriction base="xs:string">
 			<xs:enumeration value="add"/>
