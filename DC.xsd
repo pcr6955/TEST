@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="1.0"
-           targetNamespace="https://raw.githubusercontent.com/pcr6955/TEST/main/DC/heyTony!.xsd"
+           targetNamespace="https://raw.githubusercontent.com/pcr6955/TEST/main/DC.xsd"
             xmlns="https://raw.githubusercontent.com/pcr6955/TEST/main/DC.xsd"
            xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:simpleType name="Operations">
